@@ -1,7 +1,7 @@
 # Modern C++ Best Practice
 A list of best practise and idioms in C++ 11/14
 
-##Target
+## Target
 
 This checklist will NOT talk about coding conventions like “4 spaces as default indent” or “no extra space/tab at end of line”, etc. It aims at reviewing best practice and idioms of using C++11/14 for better compliance, performance and robustness to improve general code quality.
 
